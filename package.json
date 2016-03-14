@@ -1,0 +1,24 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "spider for marketdoc",
+  "main": "spider.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mongodb": "^2.1.7",
+    "request": "^2.69.0",
+    "sleep": "^3.0.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/marketdoc/spider.git"
+  },
+  "author": "muktadiur",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/marketdoc/spider#readme"
+}
